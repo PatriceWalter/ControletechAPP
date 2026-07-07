@@ -1,0 +1,12 @@
+[
+    {
+        "code": "1.1.13.a.2.",
+        "description": "Usure importante des plaquettes de frein.",
+        "gravite": "Majeure"
+    },
+    {
+        "code": "5.2.3.e.3.",
+        "description": "Corde visible sur le pneumatique.",
+        "gravite": "Critique"
+    }
+]
